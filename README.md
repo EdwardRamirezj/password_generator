@@ -8,7 +8,7 @@ In this weeks bootcamp challenge we were given a code to modify. It is an applic
   * The user is prompted a series of questions on whether or not they want to include, lowercase, uppercase, special characters, and/or numbers. 
   * Once all the prompts are answered, the generate button will display a password that matches the criteria.
   
- #Acceptance Criteria
+ # Acceptance Criteria
  
  This week, I focused on implementing pseudo coding thinking to break down each criteria that was required on the README document by commenting the scripts.js file that was given. I created variables and arrays to include uppercase, lowercase, numbers and special characters. The variable for the generate button and event listener were already given in the file which I incorperate into the following functions. I coded a funtion to ensure that the password would be displayed in the space given only when the user gives the correct prompts. The prompt function is displayed in lines 53-74 on the script.js (makes the code a little more legible to the reader). If the correct prompts were met, I added a fuction that will randomly select from the arrays that are written in lines 6-9 to generate when the "generate button" is clicked. 
  
