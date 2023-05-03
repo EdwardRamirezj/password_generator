@@ -18,7 +18,9 @@ In this weeks bootcamp challenge we were given a code to modify. It is an applic
  # Assets 
  
  
- * The following images display the deployed page for the password generator. 
+ * The following images display the deployed page for the password generator and a direct link:
+ 
+ https://edwardramirezj.github.io/password_generator/
  
  
  
